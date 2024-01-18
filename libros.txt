@@ -1,0 +1,5 @@
+86795,La Rebelion En la Granja,George Orwell,Porrua,1945,15,0
+09812,La nausea,Jean-Paul Sartre,Porrua,1938,14,1
+78950,El extranjero,Albert camus,Porrua,1942,12,0
+54321,Quiubole Con...: Tu Cuerpo el Ligue Tus Cuates el Sexo Tu Familia las Drogas y Todo lo Demas,Yordi Rosado,Porrua,2006,21,0
+23893,Emma,Jane Austen,Pinguino,1892,3,0
